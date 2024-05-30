@@ -1,0 +1,19 @@
+.body{
+        color: brown;
+        font-size: 22px;
+
+}
+h1{
+        font-size: 2rem;
+        color: brown;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+        font-size: 1.8rem;
+        font-weight: 900;
+}
+p{
+        color: blueviolet;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 600;
+}
